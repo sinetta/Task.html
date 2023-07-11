@@ -1,0 +1,40 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+/* font-family: 'Lobster', cursive; */
+.one .name{
+    color: blue;
+    font-family: 'Lobster', cursive;
+}
+.one .styles{
+    color: bisque;
+}
+.three .name{
+    color: aquamarine;
+}
+.four .name{
+    background-color: aqua;
+}
+
+/* .one{
+    background-image: url('../img5.jpg');
+} */
+body{
+    background-image: url('../img5.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#welcome{
+    background-color: cornflowerblue;
+    height: 600px;
+}
+.heaven{
+    background-color: gray;
+    height: 500px;
+}
+#flowers{
+    background-color: hotpink;
+    height: 600px;
+}
