@@ -1,0 +1,30 @@
+.a{
+    background-image: url('image6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    color: white;
+    padding:150px 100px 150px 0px;
+    margin-left:180px;
+    margin-top: -20%;
+    height: 600px; ;
+   
+
+}
+.b{margin-left: 850px;
+    padding-top: 10%;
+}
+.c{
+    margin-left: 800px;
+}
+.d{
+    color: grey;
+    margin-left: 100px;
+}
+.e{
+    color: green;
+    margin-left: 100px;
+}
+.f{
+    margin-left: 100px;
+}
