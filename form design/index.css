@@ -1,21 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nunito+Sans:wght@200&display=swap');
+  /* font-family: 'Lobster', cursive;
+font-family: 'Nunito Sans', sans-serif; */
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
 .a{
-    background-image: url('image6.jpg');
+ 
+    background-image: linear-gradient(180deg, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%),url(image6.jpg);
+background-position: center center;
+  
     background-size: cover;
     background-repeat: no-repeat;
-    width: 500px;
+    width: 450px;
     color: white;
-    padding:150px 100px 150px 0px;
+    padding:150px 100px 100px 0px;
     margin-left:180px;
-    margin-top: -20%;
+    margin-top: -40%;
     height: 600px; ;
    
 
 }
-.b{margin-left: 850px;
+.b{margin-left:50%;
     padding-top: 10%;
 }
 .c{
-    margin-left: 800px;
+    margin-left: 45%;
 }
 .d{
     color: grey;
@@ -27,4 +37,33 @@
 }
 .f{
     margin-left: 100px;
+}
+.c1{
+    padding-top: 50px;
+  
+   
+}
+.c2{
+    padding-top: 50px;
+}
+.c3{
+    padding-top: 50px;
+}
+
+.c4{
+    padding-top: 50px;
+}
+
+.c5{
+    padding-top: 50px;
+}
+
+.c6{padding-top: 50px;
+}
+.c7{padding-top: 50px;
+}
+
+.c8{padding-top: 50px;
+}
+.c9{padding-top: 50px;
 }
