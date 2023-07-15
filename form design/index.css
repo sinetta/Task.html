@@ -5,9 +5,10 @@ font-family: 'Nunito Sans', sans-serif; */
 body{
     font-family: 'Nunito Sans', sans-serif;
 }
+
 .a{
  
-    background-image: linear-gradient(180deg, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%),url(image6.jpg);
+    background-image: linear-gradient(180deg, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%),url(image6.jpg);
 background-position: center center;
   
     background-size: cover;
@@ -18,11 +19,13 @@ background-position: center center;
     margin-left:180px;
     margin-top: -40%;
     height: 600px; ;
+    font-size: 12px;
    
 
 }
-.b{margin-left:50%;
-    padding-top: 10%;
+.b{margin-left:48%;
+    font-size: 15px;
+   
 }
 .c{
     margin-left: 45%;
@@ -40,10 +43,9 @@ background-position: center center;
 }
 .c1{
     padding-top: 50px;
-  
-   
 }
 .c2{
+    margin-top: -20px;
     padding-top: 50px;
 }
 .c3{
@@ -67,3 +69,41 @@ background-position: center center;
 }
 .c9{padding-top: 50px;
 }
+.l1{
+    border: 1px solid black;
+padding: 10px 120px 10px 104px;
+
+}
+.l2{
+    border: 1px solid black;
+    padding: 10px 120px 10px 120px;
+}
+    .l3{
+        border: 1px solid black;
+        padding: 10px 120px 10px 88px;
+    }
+        .l4{
+            border: 1px solid black;
+            padding: 10px 160px 10px 135px;}
+            input{padding: 10px 60px 20px 10px;}
+            .i1{
+                padding: 10px 57px 20px 10px;
+                border: 1px solid black;
+            
+            }
+            .i2{
+                padding: 10px 2.6px 10px 2.8px;
+                border: 1px solid black;
+            }
+            .i3{
+                padding: 10px 90px 10px 90px;
+                border: 1px solid black;
+            }
+            .i4{
+                padding: 10px 90px 10px 90px;
+                border: 1px solid black;
+            }
+            .i5{
+                padding: 10px 90px 10px 90px;
+                border: 1px solid black;
+            }
