@@ -1,0 +1,28 @@
+.col-lg-2{
+    border: 1px solid  black;
+    background-color: lightskyblue;
+}
+.col-lg-8{
+    border: 1px solid black;
+    background-color: aqua;
+}
+.col-lg-1{
+    border: 1px solid black;
+    padding-top: 100px;
+    background-color: lightskyblue;
+}
+.col-lg-5{
+    border: 1px solid black;
+    background-color: lightskyblue;
+}
+.col-lg-10{
+    border: 1px solid black;
+    background-color: lightcoral;
+}
+.col-lg-12{
+    border: 1px solid black;
+    background-color: hotpink;
+}
+.a1{
+    background-color: cornflowerblue;
+}
