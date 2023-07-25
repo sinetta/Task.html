@@ -1,0 +1,58 @@
+.container{
+    border: 4px solid lightpink;
+}
+.col-lg-3{
+    border: 1px solid red;
+    background-color: red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col-lg{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: green;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.a1{
+    border: 1px solid blue;
+    background-color: blue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.a2{
+    border: 1px solid gray;
+    background-color: gray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.a3{
+    border: 1px solid mediumorchid;
+    background-color: mediumorchid;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.col-lg-11{
+    border: 1px solid lightseagreen;
+    background-color: lightseagreen;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.col-lg-1{
+    border: 1px solid olive;
+    background-color: olive;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.col-lg-12{
+    border: 1px solid yellow;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.a4{
+    border: 1px solid royalblue;
+    background-color: royalblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
