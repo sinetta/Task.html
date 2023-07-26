@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid black;
+}
+.col-lg{
+    border:1px solid black ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: cyan;
+}
+.col-lg-3{
+   border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.a1{
+    background-color: darksalmon;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.a2{
+    
+    border: 1px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col-lg-4{
+    border: 1px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: hotpink;
+}
