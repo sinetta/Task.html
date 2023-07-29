@@ -1,0 +1,12 @@
+.container{
+    border: 3px solid black;
+}
+.a2{
+    border: 1px solid lightcoral;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.a1{
+    border: 1px solid darkblue;
+    padding-left: 25px;
+}
