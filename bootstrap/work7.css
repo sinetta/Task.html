@@ -13,7 +13,7 @@
 .col-lg{
     border: 1px solid black;
     background-color:black;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 .three{
     border: 1px solid black;
@@ -23,18 +23,24 @@
 .a1{
     border: 1px solid black;
     background-color: black;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* padding-bottom: 100px; */
 }
 .a3{
     border: 1px solid black;
     background-color: black;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* padding-bottom: 100px; */
 }
 .a5{
     border: 1px solid black;
     background-color: black;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    /* padding-bottom: 100px; */
+    margin-left: 100px;
+    margin-right: 100px;
 }

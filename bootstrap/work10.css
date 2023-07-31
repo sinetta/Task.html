@@ -1,0 +1,22 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lobster&family=Nunito+Sans:wght@200&display=swap');
+  /* font-family: 'Bree Serif', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Nunito Sans', sans-serif; */
+
+.s1{
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+font-family: 'Lobster', cursive;
+}
+h3{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.s2{
+    font-family: 'Lobster', cursive;
+}
+.s3{
+    font-family: 'Lobster', cursive;
+}
