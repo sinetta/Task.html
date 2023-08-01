@@ -18,5 +18,28 @@ h3{
     font-family: 'Lobster', cursive;
 }
 .s3{
-    font-family: 'Lobster', cursive;
+    background-color: chocolate;
+    margin-left: 10px;
+ 
+}
+.s3:hover{
+    background-color: grey;
+}
+.r1{
+    background-color: midnightblue;
+    color: white;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    font-size: 20px;
+}
+.s4{
+    margin-left: 200px;
+}
+.p1{
+    margin-left: 40px;
+    line-height: 4px;
+}
+.c1{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
